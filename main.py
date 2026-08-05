@@ -8,3 +8,5 @@ print(" Hello " , name ," How are you: " )
 
 
 print("hello world")
+for i in range(10):
+    print(i)
